@@ -1,12 +1,10 @@
 # Linux Learning Journey 🚀
 
-Welcome to my Linux learning journey.
-
-My goal is to become a Cloud & DevOps Engineer by mastering Linux, Git, Docker, AWS, Terraform, Kubernetes, and automation.
+## Goal
+Become a Cloud & DevOps Engineer and later specialize in Cloud Security.
 
 ## Roadmap
-
-- [ ] Ubuntu Installation
+- [x] Ubuntu Installation
 - [ ] Linux Terminal Basics
 - [ ] File Management
 - [ ] Permissions
@@ -18,24 +16,41 @@ My goal is to become a Cloud & DevOps Engineer by mastering Linux, Git, Docker, 
 - [ ] Kubernetes
 - [ ] CI/CD
 
-## Current Progress
-
-### Week 1
-## June 27, 2026 
-
-- Installed Ubuntu 26.04 LTS in  VirtualBox.
-- learned Basic  Linux Commands: 
-    -pwd
-    -whoami
-    -hostname
-    -ls
-    -uname -a
-- Configured Git and connected my local repository to GitHub
-
-## Book
-
-📘 The Linux Command Line (William Shotts)
-
 ---
 
-"Small progress every day beats occasional bursts of effort."
+# Learning Log
+
+## Week 1 (June 27, 2026)
+
+### Topics Learned
+- Installed Ubuntu in VirtualBox
+- Basic Linux commands
+- Configured Git
+- Connected GitHub using SSH
+
+### Commands Learned
+```bash
+pwd
+whoami
+hostname
+ls
+uname -a
+git init
+git add
+git commit
+git push
+```
+
+### Challenges
+- Git authentication failed
+- SSH key configuration
+- DNS resolution issue in VirtualBox
+
+### How I Solved Them
+- Generated an SSH key
+- Added the SSH key to GitHub
+- Changed the remote from HTTPS to SSH
+- Fixed the DNS settings
+
+### Reflection
+Today I successfully published my first Linux project to GitHub.
