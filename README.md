@@ -21,8 +21,16 @@ My goal is to become a Cloud & DevOps Engineer by mastering Linux, Git, Docker, 
 ## Current Progress
 
 ### Week 1
-- Installed Ubuntu VirtualBox
-- Started learning Linux Command Line
+## June 27, 2026 
+
+- Installed Ubuntu 26.04 LTS in  VirtualBox.
+- learned Basic  Linux Commands: 
+    -pwd
+    -whoami
+    -hostname
+    -ls
+    -uname -a
+- Configured Git and connected my local repository to GitHub
 
 ## Book
 
